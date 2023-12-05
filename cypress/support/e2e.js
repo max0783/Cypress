@@ -1,0 +1,1 @@
+require('./../support/step_definitions/carousel.js');
